@@ -78,4 +78,5 @@
 ---
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohansharma4050&theme=radical)
+### 📈 Contribution Graph
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohansharma4050&bg_color=141321&color=FF6B81&line=FF4D6D&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
