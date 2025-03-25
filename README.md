@@ -2,7 +2,7 @@
 
 ## About Me
 - Data Scientist and Business Analyst
-- Currently working on Data Realted Projects
+- Currently working on Data Related Projects
 - Learning Advanced Deep Learning and MLOps
 - Open to collaboration on Data Science and ML Projects
 - Connect with me on -
@@ -10,7 +10,7 @@
   - [Portfolio](https://rohansharma4050.github.io/Rohan-Portfolio/)
 
 ## Tech Stack
-**Languages:** Python, Java, R 
+**Languages:** Python, Java, R  
 **ML/DL Frameworks:** TensorFlow, Scikit Learn, PyTorch  
 **Web Development:** HTML5, CSS3, Bootstrap, Flask  
 **Databases:** MySQL  
@@ -20,5 +20,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohansharma4050&show_icons=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohansharma4050)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansharma4050&layout=compact)  
-
 
