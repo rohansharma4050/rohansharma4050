@@ -8,11 +8,10 @@
 - Connect with me on [LinkedIn](https://linkedin.com/in/rohan-sharma-877a3119a/)
 
 ## Connect with Me
-[Portfolio](https://linkedin.com/in/rohan-sharma-877a3119a/)](https://rohansharma4050.github.io/Rohan-Portfolio/)
+[Portfolio](https://rohansharma4050.github.io/Rohan-Portfolio/)
 
 ## Tech Stack
 **Languages:** Python, Java, R 
-
 **ML/DL Frameworks:** TensorFlow, Scikit Learn, PyTorch  
 **Web Development:** HTML5, CSS3, Bootstrap, Flask  
 **Databases:** MySQL  
