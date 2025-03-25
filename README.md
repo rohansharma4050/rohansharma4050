@@ -5,7 +5,9 @@
 - Currently working on Data Realted Projects
 - Learning Advanced Deep Learning and MLOps
 - Open to collaboration on Data Science and ML Projects
-- Connect with me on [LinkedIn](https://linkedin.com/in/rohan-sharma-877a3119a/) [Portfolio](https://rohansharma4050.github.io/Rohan-Portfolio/)
+- Connect with me on
+- [LinkedIn](https://linkedin.com/in/rohan-sharma-877a3119a/)
+- [Portfolio](https://rohansharma4050.github.io/Rohan-Portfolio/)
 
 ## Tech Stack
 **Languages:** Python, Java, R 
